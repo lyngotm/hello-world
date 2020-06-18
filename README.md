@@ -1,2 +1,3 @@
 # hello-world
-Just a basic repository
+
+Hi Ly is here! I love Python and love building things. 
